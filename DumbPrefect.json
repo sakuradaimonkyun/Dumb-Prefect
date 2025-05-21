@@ -5,6 +5,16 @@
   "author": "Yokota Takuma",
   "cover": "https://cdn.imgchest.com/files/7bwckx9q8e7.jpg",
   "chapters": {
+    "78": {
+      "title": "The Story of the Dumb Couple’s Hike",
+      "volume": "",
+      "last_updated": "1747765282",
+      "groups": {
+        "Dumb Scans": "/proxy/api/imgchest/chapter/ej7mwxda9yd"
+      }
+    }
+  },
+  {
     "79": {
       "title": "The Story of A Summer Day of The Two Dumb High School Girls",
       "volume": "",
@@ -13,5 +23,6 @@
         "Dumb Scans": "/proxy/api/imgchest/chapter/ljyqxlkln42"
       }
     }
-  }
+  },
+  
 }

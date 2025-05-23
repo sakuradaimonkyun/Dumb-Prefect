@@ -5,6 +5,14 @@
   "author": "Yokota Takuma",
   "cover": "https://cdn.imgchest.com/files/7bwckx9q8e7.jpg",
   "chapters": {
+    "76.5": {
+      "title": "The Story of the Dumb Grade School Reunion",
+      "volume": "",
+      "last_updated": "1748024762",
+      "groups": {
+        "Dumb Scans": "/proxy/api/imgchest/chapter/vj4jklpz578"
+      }
+    },
     "77": {
       "title": "The Story of the Dumb Fathers' Bug-Hunt",
       "volume": "",
@@ -28,14 +36,7 @@
       "groups": {
         "Dumb Scans": "/proxy/api/imgchest/chapter/ljyqxlkln42"
       }
-    },
-    "76.5": {
-      "title": "The Story of the Dumb Grade School Reunion",
-      "volume": "",
-      "last_updated": "1748024636",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/vj4jklpz578"
-      }
     }
+    
   }
 }

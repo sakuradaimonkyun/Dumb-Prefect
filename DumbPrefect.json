@@ -1,106 +1,185 @@
 {
-  "title": "Ponkotsu Fuukiin to Skaato take ga Futekisetsu na JK no Hanashi",
-  "description": "Sakuradaimon Tougo is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata Poemu is one of the people who Sakuradaimon Tougo has tried to discipline into wearing appropriate school attire, but she has thus far been disobedient.\n\nOfficial Raw: https://pocket.shonenmagazine.com/title/00798/\nBookwalker Jp: https://bookwalker.jp/series/222052/list/\nAmazon Jp: https://www.amazon.co.jp/dp/B08C72T75H\nEbook Jp: https://ebookjapan.yahoo.co.jp/books/559866/\nCDJapan: https://www.cdjapan.co.jp/product/NEOBK-2404813\n\nDumb Scans Discord: https://discord.gg/xhPTehFHy4",
-  "artist": "Yokota Takuma",
-  "author": "Yokota Takuma",
-  "cover": "https://cdn.imgchest.com/files/7bwckx9q8e7.jpg",
-  "chapters": {
-    "70": {
-      "title": "The Story of the Future of the Dumb Prefect and the High School Girl With an Improper Skirt Length",
-      "volume": "",
-      "last_updated": "1749493086",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/9ryd6pqw67k"
+   "title":"Ponkotsu Fuukiin to Skaato take ga Futekisetsu na JK no Hanashi",
+   "description":"Sakuradaimon Tougo is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata Poemu is one of the people who Sakuradaimon Tougo has tried to discipline into wearing appropriate school attire, but she has thus far been disobedient.\n\nOfficial Raw: https://pocket.shonenmagazine.com/title/00798/\nBookwalker Jp: https://bookwalker.jp/series/222052/list/\nAmazon Jp: https://www.amazon.co.jp/dp/B08C72T75H\nEbook Jp: https://ebookjapan.yahoo.co.jp/books/559866/\nCDJapan: https://www.cdjapan.co.jp/product/NEOBK-2404813\n\nDumb Scans Discord: https://discord.gg/xhPTehFHy4",
+   "artist":"Yokota Takuma",
+   "author":"Yokota Takuma",
+   "cover":"https://cdn.imgchest.com/files/7bwckx9q8e7.jpg",
+   "chapters":{
+      "60":{
+         "title":"A Story About Dumb Parents' Naked Relationships",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ej7mlkke94d"
+         }
+      },
+      "61":{
+         "title":"A Story About Dumb People and Job Shadowing",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/dl7pd99n37o"
+         }
+      },
+      "62":{
+         "title":"The Story of the Dumb Senior and Junior Prefects",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ej7mlkk6a4d"
+         }
+      },
+      "63":{
+         "title":"A Story About Dumb New Students and a Club Activity Tour",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/9ryd6aao67k"
+         }
+      },
+      "64":{
+         "title":"A Story About a Dumb Father and his Financial Situation",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/o24a8vvoe7l"
+         }
+      },
+      "65":{
+         "title":"The Story About the Dumb Newcomer and her Creation Activity",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ne7bkvvjg75"
+         }
+      },
+      "66":{
+         "title":"The Story of a Reunion Between the Dumb Prefect and his Old Friend",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ljyqrzzbx42"
+         }
+      },
+      "67":{
+         "title":"The Story About the Makeover of the Dumb Female Delinquent",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/pg735wwq34r"
+         }
+      },
+      "68":{
+         "title":"The Story fo a Dumb Library Committee and an Avid-Reader Gyaru",
+         "volume":"",
+         "last_updated":"1749663431",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/vj4jgvvpe48"
+         }
+      },
+      "69":{
+         "title":"The Story of The Dumb Father’s Allowance Circumstance - The Case of the 46 Year-old Doctor",
+         "volume":"",
+         "last_updated":"1749493038",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/a8465kknvyx"
+         }
+      },
+      "70":{
+         "title":"The Story of the Future of the Dumb Prefect and the High School Girl With an Improper Skirt Length",
+         "volume":"",
+         "last_updated":"1749493086",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/9ryd6pqw67k"
+         }
+      },
+      "71":{
+         "title":"The story of the Dumb Manga-Club Members’ Discussion on Production",
+         "volume":"",
+         "last_updated":"1749493071",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/wl7l2mav34x"
+         }
+      },
+      "71.5":{
+         "title":"The Story of the Details of the Story of the Dumb Manga-Club Member's Discussion on Production",
+         "volume":"",
+         "last_updated":"1749493071",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/lqyegpdez7d"
+         }
+      },
+      "72":{
+         "title":"The Story of The Dumb Girl’s Part Time Job",
+         "volume":"",
+         "last_updated":"1749493051",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/9249pj2q87n"
+         }
+      },
+      "73":{
+         "title":"The Story of the University Life of the Dumb University Student Couple",
+         "volume":"",
+         "last_updated":"1749493038",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/9ryd6pqb67k"
+         }
+      },
+      "74":{
+         "title":"The Story of A dumb guy, his dumb girlfriend and his dumb old friend",
+         "volume":"",
+         "last_updated":"1749492976",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/9ryd6pq8a7k"
+         }
+      },
+      "75":{
+         "title":"The Dummies’ respective ways of welcoming summer",
+         "volume":"",
+         "last_updated":"1749492744",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/lqyegpdkm7d"
+         }
+      },
+      "76":{
+         "title":"The Story of the Dumb Manga Club Members’ Summer Holiday",
+         "volume":"",
+         "last_updated":"1748025048",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/5xy2ak59j7l"
+         }
+      },
+      "76.5":{
+         "title":"The Story of the Dumb Grade School Reunion",
+         "volume":"",
+         "last_updated":"1748024762",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/vj4jklpz578"
+         }
+      },
+      "77":{
+         "title":"The Story of the Dumb Fathers' Bug-Hunt",
+         "volume":"",
+         "last_updated":"1747853826",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/vj4jkalz978"
+         }
+      },
+      "78":{
+         "title":"The Story of the Dumb Couple's Hike",
+         "volume":"",
+         "last_updated":"1747852761",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ej7mwxda9yd"
+         }
+      },
+      "79":{
+         "title":"The Story of A Summer Day of The Two Dumb High School Girls",
+         "volume":"",
+         "last_updated":"1747765282",
+         "groups":{
+            "Dumb Scans":"/proxy/api/imgchest/chapter/ljyqxlkln42"
+         }
       }
-    },
-    "71": {
-      "title": "The story of the Dumb Manga-Club Members’ Discussion on Production",
-      "volume": "",
-      "last_updated": "1749493071",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/wl7l2mav34x"
-      }
-    },
-        "71.5": {
-      "title": "The Story of the Details of the Story of the Dumb Manga-Club Member's Discussion on Production",
-      "volume": "",
-      "last_updated": "1749493071",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/lqyegpdez7d"
-      }
-    },
-    "72": {
-      "title": "The Story of The Dumb Girl’s Part Time Job",
-      "volume": "",
-      "last_updated": "1749493051",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/9249pj2q87n"
-      }
-    },
-    "73": {
-      "title": "The Story of the University Life of the Dumb University Student Couple",
-      "volume": "",
-      "last_updated": "1749493038",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/9ryd6pqb67k"
-      }
-    },
-    "74": {
-      "title": "The Story of A dumb guy, his dumb girlfriend and his dumb old friend",
-      "volume": "",
-      "last_updated": "1749492976",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/9ryd6pq8a7k"
-      }
-    },
-    "75": {
-      "title": "The Dummies’ respective ways of welcoming summer",
-      "volume": "",
-      "last_updated": "1749492744",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/lqyegpdkm7d"
-      }
-    },
-    "76": {
-      "title": "The Story of the Dumb Manga Club Members’ Summer Holiday",
-      "volume": "",
-      "last_updated": "1748025048",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/5xy2ak59j7l"
-      }
-    },
-    "76.5": {
-      "title": "The Story of the Dumb Grade School Reunion",
-      "volume": "",
-      "last_updated": "1748024762",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/vj4jklpz578"
-      }
-    },
-    "77": {
-      "title": "The Story of the Dumb Fathers' Bug-Hunt",
-      "volume": "",
-      "last_updated": "1747853826",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/vj4jkalz978"
-      }
-    },
-    "78": {
-      "title": "The Story of the Dumb Couple's Hike",
-      "volume": "",
-      "last_updated": "1747852761",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/ej7mwxda9yd"
-      }
-    },
-    "79": {
-      "title": "The Story of A Summer Day of The Two Dumb High School Girls",
-      "volume": "",
-      "last_updated": "1747765282",
-      "groups": {
-        "Dumb Scans": "/proxy/api/imgchest/chapter/ljyqxlkln42"
-      }
-    }
-    
-  }
+   }
 }
